@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "Admin Username": {
-            "value": "sysadmin"
+            "value": "tim"
         },
         "Admin Password": {
             "reference": {
